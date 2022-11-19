@@ -1,0 +1,8 @@
+1 Create VPC
+2 create subnet in public and private
+create internet gateway
+route subnet to internet gateway
+create ec2 instance with personal vpc
+create image of instances.
+create load balancer in public.
+connect load balancer to instances        
